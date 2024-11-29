@@ -10,6 +10,7 @@ const Header = ({text}) =>{
                 <a href="">Accueil</a>
                 <a href="">Nos Produits</a>
                 <a href="">Services</a>
+                <a href="">Authenticite</a>
             </div>
         </header>
     )
