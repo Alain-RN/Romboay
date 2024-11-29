@@ -1,10 +1,11 @@
 import './App.css'
+import Header from './Components/header'
 
 function App() {
 
   return (
-    <>
-      <h1>Mirindra</h1>    
+    <> 
+      <Header/>   
     </>
   )
 }
