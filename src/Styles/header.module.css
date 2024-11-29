@@ -1,0 +1,30 @@
+body{
+    margin: inherit;
+}
+
+header{
+    background-color: gray;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    margin-left:20px ;
+    display: flex;
+}
+
+.img{
+    height: 90px;
+    width: 90px;
+}
+
+.ancre{
+    margin-right: 50px;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: black;
+}
